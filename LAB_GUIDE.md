@@ -22,7 +22,7 @@ Toàn bộ code viết trong `template.py`. Toàn bộ test chạy bằng mock �
 > → fail vì không có key.
 
 ---
-
+ q
 # Trước Khi Bắt Đầu · Mỗi File Hoạt Động Như Thế Nào?
 
 Bạn sẽ làm việc với nhiều file, nhưng **chỉ viết phần code chính trong
